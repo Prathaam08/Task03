@@ -38,4 +38,4 @@ python task03.py
 ```
 
 ## Dataset
-You can download the housing dataset from [Kaggle]((https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)) or use the one provided here.
+You can download the housing dataset from [Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction) or use the one provided here.
