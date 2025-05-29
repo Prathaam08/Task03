@@ -34,5 +34,4 @@ The model achieved an R² score of approximately 0.82, indicating a good fit for
 
 ## 📁 How to Run
 ```bash
-pip install -r requirements.txt
-jupyter notebook linear_regression.ipynb
+python task03.py
