@@ -35,3 +35,7 @@ The model achieved an R² score of approximately 0.82, indicating a good fit for
 ## 📁 How to Run
 ```bash
 python task03.py
+```
+
+## Dataset
+You can download the Titanic dataset from [Kaggle]([https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)) or use the one provided here.
